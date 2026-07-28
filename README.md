@@ -21,4 +21,4 @@ Open to collaborating on projects that solve real-world problems.
 Away from the keyboard: You'll usually find me in the gym or searching for the next song to put on repeat.
 
 #### Links
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/swapnil-kumar505/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:swapnil160305@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/swapnil-kumar505/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=swapnil160305@gmail.com)
