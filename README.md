@@ -13,7 +13,6 @@ Most of what I know comes from experimenting with new ideas and learning along t
 - Researching vision-language models for mobile UI accessibility by predicting accessibility risk and cognitive load from screenshots and validating them against user-study data.
 - Researching continuous sleep-stage classification from short-window EEG signals.
 - Building an explainable pipeline for financial sentiment analysis.
-- Sharpening DSA and system design fundamentals (UofAlberta) for interviews.
 
 #### Collaboration
 Open to collaborating on projects that solve real-world problems.
