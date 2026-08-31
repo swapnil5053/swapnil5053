@@ -5,9 +5,9 @@ I'm curious about AI, machine learning, and business intelligence, with a growin
 Most of what I know comes from experimenting with new ideas and learning along the way.
 
 #### Skill stack
-[![My Skills](https://skillicons.dev/icons?i=py,ts,fastapi,nodejs,pytorch,react,nextjs,tailwind,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,fastapi,nodejs,pytorch,react,nextjs,tailwind,docker)](https://skillicons.dev)
 
-**Also comfortable with:** AWS · Git · GitHub Actions · SQL · CI/CD pipelines
+**Also comfortable with:** Java · AWS · Git · GitHub Actions · SQL · CI/CD pipelines
 
 #### Currently
 - Researching vision-language models for mobile UI accessibility by predicting accessibility risk and cognitive load from screenshots and validating them against user-study data.
